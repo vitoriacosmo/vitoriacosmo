@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📃 Cursando Análise e Desenvolvimento de Sistemas no SENAC.<br>🖱️ Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>🌷Curiosidade sobre mim: tenho a maioria das cenas de The Office decoradas.</p>
+<p align="left">📃 Cursando Análise e Desenvolvimento de Sistemas no SENAC.<br>🖱️ Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>🌷 Curiosidade sobre mim: tenho a maioria das cenas de The Office decoradas.</p>
 
 ###
 
