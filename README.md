@@ -25,10 +25,8 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vitoriacosmo/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />  </a> width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
-  <a href="vitoriacosmo@outlook.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=otutlook&theme=light" />  </a>
 </div>
 
 ###
