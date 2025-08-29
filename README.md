@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="250" alt="vitoriacosmo" src="https://github.com/user-attachments/assets/dd822b29-1301-4b1a-8328-dd0d42055479" />
+  <img width="500" height="250" alt="vitoriacosmo" src="https://github.com/user-attachments/assets/e6462b25-cba8-405d-b15f-a8b20989885a" />  
 </p>
 
 <p align="center">
